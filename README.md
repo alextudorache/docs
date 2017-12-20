@@ -1,6 +1,24 @@
-Linode Guides and Tutorials
-====================
+![Linode logo](docs/assets/linode_readme_logo.png)
 
-This repository contains all the tutorials featured at [linode.com/docs](https://linode.com/docs). Please feel free to contribute by suggesting document improvements, identifying corrections, or submitting updates.
+# Guides and Tutorials
 
-If you'd like to write for us, please apply via our [contributing page](https://linode.com/docs/contribute). Then, see the [Linode Writer's Formatting Guide](https://www.linode.com/docs/linode-writers-formatting-guide) for more information regarding content and formatting.
+<img align="right" width="100" height="100" src="docs/assets/linode_readme_book.png">
+
+###### [Contributing](https://github.com/linode/docs/blob/master/CONTRIBUTING.md) | [Formatting Guide](https://linode.com/docs/linode-writers-formatting-guide/)
+
+> Linode maintains a library of tutorials hosted at https://www.linode.com/docs/. The guides serve as an easy to follow reference for Linux, web servers, development, and more.
+
+### Quickstart
+
+1. Fork and clone this repository.
+
+2. Download the latest version of [Hugo](https://gohugo.io/).
+
+3. Navigate into the cloned repo and run `hugo server`.
+
+4. The library can be viewed with a browser on `localhost:1313/docs/`.
+
+## How can I write a guide?
+
+We are constantly seeking the impove the quality of our library. See our [rotating list of suggested topics](https://www.linode.com/docs/contribute/).
+
